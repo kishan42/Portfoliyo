@@ -1,7 +1,7 @@
 export const ExperienceList = [
-  { company: "AQai", exp: "Jun 2024 - Present" },
-  { company: "Heybase inc", exp: "May 2023 - Jun 2024" },
-  { company: "Torum", exp: "Jun 2021 - Aug 2023" },
-  { company: "Brandwar", exp: "Apr 2019 - May 2021" },
-  { company: "Webtronix", exp: "Mar 2017 - Mar 2019" },
+  { company: "Information Retrieval and Language Processing lab (IRLP Lab)", exp: "Nov 2024 - Present" },
+  { company: "Fitshield", exp: "July 2024 - Nov 2024" },
+  { company: "Rootle.ai", exp: "Dec 2023 - June 2024" },
+  { company: "Code Unnati", exp: "Aug 2022 - Aug 2023" },
+  { company: "Edunet Foundation", exp: "June 2023 - July 2023" },
 ];

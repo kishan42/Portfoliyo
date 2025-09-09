@@ -28,7 +28,7 @@ const Contributions = () => {
       </div>
       <div className="flex w-full flex-col items-center gap-5 my-8">
         <Link
-          href="https://github.com/iamsrikanthnani"
+          href="https://github.com/kishan42"
           target="_blank"
           className="flex flex-row items-center text-md sm:text-md lg:text-2xl bg-clip-text text-transparent bg-gradient-to-b from-green-400 to-blue-500"
         >

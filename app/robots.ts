@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: "*",
       allow: "/",
     },
-    sitemap: "https://srikanthnani.com/sitemap.xml",
+    sitemap: "https://kishankachhadiya.com/sitemap.xml",
   };
 }

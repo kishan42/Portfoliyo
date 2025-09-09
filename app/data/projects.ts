@@ -1,4 +1,111 @@
-export const ProjectsTitle = "Open Source 🌟";
+export const ProjectsTitle = "Projects & Open Source 🌟";
+
+export const ProjectsDescription =
+  "A curated set of AI, data, and full-stack projects—spanning RAG systems, model fine-tuning, MLOps, and practical apps. From productionized pipelines to research-driven prototypes, these reflect hands-on learning, measurable impact, and clean, scalable engineering.";
+
+export const ProjectsEndText = "More to come! 🎈";
+
+export const ProjectsList = [
+  {
+    name: "Intelligent News Article Extractor (AI Agent)",
+    description:
+      "Streamlit app with Gemini 1.5 + LangChain for scraping, metadata extraction, and classification; Airtable storage and Zapier alerts.",
+    git: "https://github.com/kishan42/Intelligent-News-Article-Extractor-AI-Agent",
+    link: "https://github.com/kishan42/Intelligent-News-Article-Extractor-AI-Agent",
+    img: "/img/intelligent-news-agent.png",
+  },
+  {
+    name: "Diamond Price Prediction (MLOps)",
+    description:
+      "End-to-end pipeline with MLflow tracking/versioning and a Flask inference app for real-time regression.",
+    git: "https://github.com/kishan42/DiamondPricePrediction",
+    link: "https://github.com/kishan42/DiamondPricePrediction",
+    img: "/img/diamond-mlops.png",
+  },
+  {
+    name: "IoT Fire Safety Device",
+    description:
+      "Smart prototype to detect fire/gas leaks, cut electricity, trigger extinguishing, and send real-time alerts via webhooks/IFTTT.",
+    git: "https://github.com/kishan42/IOT_FIRE_SEFTY_PROJECT",
+    link: "https://github.com/kishan42/IOT_FIRE_SEFTY_PROJECT",
+    img: "/img/iot-fire-safety.png",
+  },
+  {
+    name: "QA Chatbot",
+    description:
+      "Python-based question-answering bot—foundation for RAG/LLM workflows and domain Q&A.",
+    git: "https://github.com/kishan42/QA_chatbot",
+    link: "https://github.com/kishan42/QA_chatbot",
+    img: "/img/qa-chatbot.png",
+  },
+  {
+    name: "Dish Recommendation",
+    description:
+      "Semantic retrieval for dish names and ingredients with vector embeddings and fast API layers.",
+    git: "https://github.com/kishan42/Dish_recommend",
+    link: "https://github.com/kishan42/Dish_recommend",
+    img: "/img/dish-recommend.png",
+  },
+  {
+    name: "Nutrients Calculation",
+    description:
+      "Ingredient-to-nutrition mapping and quantity-aware lookups for accurate dietary info.",
+    git: "https://github.com/kishan42/Nutrients_calculation",
+    link: "https://github.com/kishan42/Nutrients_calculation",
+    img: "/img/nutrients-calc.png",
+  },
+  {
+    name: "Dish Info",
+    description:
+      "Data scraping + ETL for dish metadata; groundwork for retrieval and recommendation features.",
+    git: "https://github.com/kishan42/Dishinfo",
+    link: "https://github.com/kishan42/Dishinfo",
+    img: "/img/dishinfo.png",
+  },
+  {
+    name: "Dishinformation App",
+    description:
+      "App layer around dish data pipelines; experiments with classification and search.",
+    git: "https://github.com/kishan42/dishinformation-app",
+    link: "https://github.com/kishan42/dishinformation-app",
+    img: "/img/dishinformation.png",
+  },
+  {
+    name: "Diabetes Prediction (Web App)",
+    description:
+      "Notebook/webapp exploring features and models for diabetes classification.",
+    git: "https://github.com/kishan42/DiabetesPrediction_Webapp",
+    link: "https://github.com/kishan42/DiabetesPrediction_Webapp",
+    img: "/img/diabetes-webapp.png",
+  },
+  {
+    name: "Forest Fire ML Prediction (Web App)",
+    description:
+      "ML notebook-driven app predicting forest fire risk with basic visualizations.",
+    git: "https://github.com/kishan42/Forest_fire_ML_prediction_WEBAPP",
+    link: "https://github.com/kishan42/Forest_fire_ML_prediction_WEBAPP",
+    img: "/img/forest-fire-ml.png",
+  },
+  {
+    name: "YouTube Channel Review Tool",
+    description:
+      "Python utilities for scraping and analyzing channel/video metrics and reviews.",
+    git: "https://github.com/kishan42/Youtube_channel_review_project",
+    link: "https://github.com/kishan42/Youtube_channel_review_project",
+    img: "/img/youtube-review.png",
+  },
+  {
+    name: "Flipkart Product Review & Image Scraper (Flask)",
+    description:
+      "Web scraping app to collect product reviews/images and export structured CSVs.",
+    git: "https://github.com/kishan42/flipcard_product_review_web_srapping_flask_app",
+    link: "https://github.com/kishan42/flipcard_product_review_web_srapping_flask_app",
+    img: "/img/flipkart-scraper.png",
+  },
+];
+
+
+/* export const ProjectsTitle = "Open Source 🌟";
 export const ProjectsDescription =
   "Explore a curated collection of projects I’ve built over the years—spanning web, mobile, AI, and developer tooling. From early experiments to production-ready apps, each project reflects hands-on learning, open-source contributions, and a focus on clean, scalable engineering.";
 export const ProjectsEndText = "More to come! 🎈";
@@ -141,3 +248,4 @@ export const ProjectsList = [
     img: "/img/mern.png",
   },
 ];
+*/
